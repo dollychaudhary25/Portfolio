@@ -71,8 +71,9 @@ body {
 } 
 
 .hero .intro { 
-	text-align: center; 
-	margin:800px;; 
+	text-align: center;
+	justify-content: center; 
+	margin:500px;; 
 } 
 
 .hero .intro-buttons { 
